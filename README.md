@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:yassineeyahyaouii@gmail.com">📧 Email</a> ·
   <a href="https://www.upwork.com">💼 Upwork</a> ·
-  <a href="https://www.linkedin.com/in/yassine-yahyaoui">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yass1ne">🔗 LinkedIn</a>
 </p>
 
 ---
