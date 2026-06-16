@@ -61,7 +61,7 @@ A production-grade **polyrepo**: five FastAPI microservices + a React SPA, coord
 | Project | Description | Stack |
 |---|---|---|
 | 🏦 [Financial Intelligence Command Center](https://github.com/Yaass1ne/Financial-Intelligence-Command-Center) | AI platform replacing 10–15 financial tools: RAG, episodic memory, knowledge graph, Monte Carlo simulation | FastAPI · Neo4j · FAISS · Groq · React |
-| 🍽️ [AI Restaurant Concierge](https://github.com/Yaass1ne/ai-restaurant-concierge) | Voice-first dining concierge: real-time voice agent, 3D dish visualisation, GLB→USDZ pipeline, automated reservations | Next.js · LiveKit · Python · AWS CDK |
+| 🍽️ **AI Restaurant Concierge** · 🔒 Private | Voice-first dining concierge: real-time voice agent, 3D dish visualisation, GLB→USDZ pipeline, automated reservations | Next.js · LiveKit · Python · AWS CDK |
 
 ### 📈 AI Algorithmic Trading
 
