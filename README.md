@@ -29,6 +29,18 @@
 
 > **A distributed, LLM-guided data-quality platform that ingests messy data, plans corrections with an AI advisor, executes them on a LangGraph DAG with human-in-the-loop review, and exports cleaned data plus an audit report.** &nbsp;·&nbsp; 🔒 _Private — available on request_
 
+<p align="center">
+  <img src="assets/data-cleaner-dashboard.png" alt="AI-Powered Data Cleaner — datasets dashboard" width="85%" />
+  <br/>
+  <em>Datasets workspace — every dataset moving through the cleaning pipeline.</em>
+</p>
+
+<p align="center">
+  <img src="assets/data-cleaner-audit.png" alt="AI-Powered Data Cleaner — audit report" width="85%" />
+  <br/>
+  <em>Auto-generated audit report — per-pipeline changes, lineage, and live activity.</em>
+</p>
+
 A production-grade **polyrepo**: five FastAPI microservices + a React SPA, coordinated with Docker Compose and full observability.
 
 - 🔌 **Multi-format ingestion** — CSV, Parquet, Excel, JSON, XML, PDF, images, text + cloud/DB connectors (S3, GCS, Azure, Postgres, MongoDB)
