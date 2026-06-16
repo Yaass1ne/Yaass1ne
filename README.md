@@ -25,7 +25,24 @@
 
 ---
 
-## 🚀 Projects
+## 🌟 Flagship — AI-Powered Data Cleaner
+
+> **A distributed, LLM-guided data-quality platform that ingests messy data, plans corrections with an AI advisor, executes them on a LangGraph DAG with human-in-the-loop review, and exports cleaned data plus an audit report.** &nbsp;·&nbsp; 🔒 _Private — available on request_
+
+A production-grade **polyrepo**: five FastAPI microservices + a React SPA, coordinated with Docker Compose and full observability.
+
+- 🔌 **Multi-format ingestion** — CSV, Parquet, Excel, JSON, XML, PDF, images, text + cloud/DB connectors (S3, GCS, Azure, Postgres, MongoDB)
+- 🧠 **LLM-guided rule planning** with a deterministic correction engine (mojibake repair, fuzzy categorical folding, sentinel nulling, date normalisation, email→name) and a hard identity-field veto
+- 🔁 **Three pipelines in one dataset** — tabular, text, and image (OCR + content classification) processed together
+- 👤 **Human-in-the-loop** — unified Rule Review + Post-Correction Review gates, even across mixed multi-schema datasets
+- 🧾 **Event-sourced lineage** streamed to the SPA over SSE, plus a generated audit PDF
+- 📈 **Observability** — OpenTelemetry tracing (Tempo), Prometheus, Grafana
+
+`FastAPI` · `LangGraph` · `LangChain` · `React` · `TypeScript` · `PostgreSQL` · `RabbitMQ` · `MinIO/S3` · `Docker` · `OpenAI`
+
+---
+
+## 🚀 More Projects
 
 > Links open public repositories. Items marked **🔒 Private** are available on request.
 
@@ -34,7 +51,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🏦 [FINCENTER — Financial Intelligence Command Center](https://github.com/Yaass1ne/Financial-Intelligence-Command-Center) | AI platform replacing 10–15 financial tools: RAG, episodic memory, knowledge graph, Monte Carlo simulation | FastAPI · Neo4j · FAISS · Groq · React |
-| 🧹 **AI-Powered Data Cleaner** · 🔒 Private | Distributed LLM-guided data-quality platform — 5 FastAPI microservices + React SPA, LangGraph correction DAG, two human-in-the-loop review gates, audit-PDF export | FastAPI · LangGraph · React · Docker · OpenAI |
 | 🍽️ **EKKO — AI Restaurant Concierge** · 🔒 Private | Voice-first dining concierge: real-time voice agent, 3D dish visualisation, GLB→USDZ pipeline, automated reservations | Next.js · LiveKit · Python · AWS CDK |
 
 ### 🎵 Generative AI — Audio & Voice
