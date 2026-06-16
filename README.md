@@ -25,9 +25,9 @@
 
 ---
 
-## 🌟 Flagship — AI-Powered Data Cleaner
+## 🌟 Flagship — [AI-Powered Data Cleaner](https://github.com/Yaass1ne/ai-data-cleaner)
 
-> **A distributed, LLM-guided data-quality platform that ingests messy data, plans corrections with an AI advisor, executes them on a LangGraph DAG with human-in-the-loop review, and exports cleaned data plus an audit report.** &nbsp;·&nbsp; 🔒 _Private — available on request_
+> **A distributed, LLM-guided data-quality platform that ingests messy data, plans corrections with an AI advisor, executes them on a LangGraph DAG with human-in-the-loop review, and exports cleaned data plus an audit report.** &nbsp;·&nbsp; 👉 [**View the repo →**](https://github.com/Yaass1ne/ai-data-cleaner)
 
 <p align="center">
   <img src="assets/data-cleaner-dashboard.png" alt="AI-Powered Data Cleaner — datasets dashboard" width="85%" />
@@ -76,8 +76,8 @@ A production-grade **polyrepo**: five FastAPI microservices + a React SPA, coord
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 **MT5 FTMO Trader** · 🔒 Private | Autonomous FTMO-compliant MetaTrader 5 bot: Smart Money Concepts detection + LLM veto, risk circuit breakers, multi-target exits, Telegram monitoring | Python · MetaTrader5 · OpenAI/Ollama |
-| 🧠 **Vidar AI** · 🔒 Private | LLM-powered MT5 trading system with SMC market-structure detection, strategy RAG, REST API + React dashboard | FastAPI · React · MetaTrader5 · OpenAI |
+| 📊 [MT5 FTMO Trader](https://github.com/Yaass1ne/mt5-ftmo-trader) | Autonomous FTMO-compliant MetaTrader 5 bot: Smart Money Concepts detection + LLM veto, risk circuit breakers, multi-target exits, Telegram monitoring | Python · MetaTrader5 · OpenAI/Ollama |
+| 🧠 [Vidar AI](https://github.com/Yaass1ne/vidar-ai) | LLM-powered MT5 trading system with SMC market-structure detection, strategy RAG, REST API + React dashboard | FastAPI · React · MetaTrader5 · OpenAI |
 
 ### ⚡ Data Engineering & Analytics
 
@@ -85,21 +85,21 @@ A production-grade **polyrepo**: five FastAPI microservices + a React SPA, coord
 |---|---|---|
 | ⚡ [Lakehouse Streaming Data Platform](https://github.com/Yaass1ne/Event-Driven-Pipeline-) | End-to-end Lambda Architecture: Kafka → Spark → Delta Lake → Airflow → Grafana | Kafka · Spark · Delta Lake · Docker |
 | 📊 [CDC BRFSS 2022 Health Analytics](https://github.com/Yaass1ne/Data-Analytics-CDC-BRFSS-2022) | EDA + ML models on the CDC BRFSS 2022 survey (450k+ responses) with dashboards | Jupyter · pandas · Power BI · scikit-learn |
-| 🩺 **BRFSS Health Dashboard** · 🔒 Private | Streamlit dashboard exploring disease ↔ lifestyle correlations in the BRFSS 2022 dataset | Streamlit · pandas · seaborn |
-| 🌍 **World Happiness Dashboard** · 🔒 Private | Interactive D3.js choropleth + linked charts on the World Happiness Report | D3.js · JavaScript · HTML/CSS |
+| 🩺 [BRFSS Health Dashboard](https://github.com/Yaass1ne/brfss-health-dashboard) | Streamlit dashboard exploring disease ↔ lifestyle correlations in the BRFSS 2022 dataset | Streamlit · pandas · seaborn |
+| 🌍 [World Happiness Dashboard](https://github.com/Yaass1ne/world-happiness-d3) | Interactive D3.js choropleth + linked charts on the World Happiness Report | D3.js · JavaScript · HTML/CSS |
 
 ### 🧑‍💼 NLP & Web Applications
 
 | Project | Description | Stack |
 |---|---|---|
 | 🧑‍💼 [AI Recruitment Filtering System](https://github.com/Yaass1ne/RH-recrutement-app) | Automated candidate screening with semantic NLP + GPT-3.5 interview scoring | Flask · spaCy · SBERT · GPT-3.5 |
-| 🚗 **LuxAutoMart** · 🔒 Private | Symfony luxury-car marketplace: listings, user management, admin back-office | Symfony 5.4 · Doctrine · Twig · MySQL |
+| 🚗 [LuxAutoMart](https://github.com/Yaass1ne/luxautomart) | Symfony luxury-car marketplace: listings, user management, admin back-office | Symfony 5.4 · Doctrine · Twig · MySQL |
 
 ### 🔬 Research
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧪 **Federated Face Recognition** · 🔒 Private | Federated-learning research for face recognition across distributed datasets without centralising raw images | PyTorch · Federated Learning · Jupyter |
+| 🧪 [Federated Face Recognition](https://github.com/Yaass1ne/federated-face-recognition) | Federated-learning research for face recognition across distributed datasets without centralising raw images | PyTorch · Federated Learning · Jupyter |
 
 ---
 
